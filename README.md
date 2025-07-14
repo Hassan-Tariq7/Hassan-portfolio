@@ -20,9 +20,25 @@ Welcome to my GitHub portfolio! I'm a detail-oriented **Data Administrator** wit
 | **Languages**    | Python, SQL          |
 | **Data Tools**   | MS Excel, Power BI, Tableau |
 | **Automation**   | Python scripting, Excel macros |
-| **Others**       | ERP Systems, Workflow Audits |
+| **Reporting**    | Dashboards, Data Coordination, Report Generation |
+| **Other Skills** | Workflow Monitoring, Confidentiality, Auditing |
 
 ---
+
+## 📊 Featured Projects
+
+### 🔹 [Tesco Financial Performance Dashboard](./Tesco-Financial-Dashboard)
+- **Tools**: Microsoft Excel (Pivot Tables, Charts, Slicers), Financial Analysis
+- Analyzed Tesco’s financial performance pre- and post-COVID using official data and financial ratios.
+- Designed a custom **interactive Excel dashboard** showing:
+  - Sales by region (UK, ROI, Asia, Central Europe)
+  - Cost of Goods Sold (COGS), Operating Expenses
+  - Profitability, Liquidity, Gearing, and Efficiency Ratios
+- Key insights:
+  - Online sales rose 77% during COVID
+  - UK and ROI performed well; Central Europe and Asia saw declines
+  - Liquidity and gearing ratios fluctuated heavily
+- Presented as part of MSc Data Analytics at Ulster University
 
 ## 💼 Work Experience
 
