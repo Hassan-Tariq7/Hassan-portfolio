@@ -27,7 +27,7 @@ Welcome to my GitHub portfolio! I'm a detail-oriented **Data Administrator** wit
 
 ## 📊 Featured Projects
 
-### 🔹 [Tesco Financial Performance Dashboard](./Tesco-Financial-Dashboard)
+### 🔹 [Tesco Financial Performance Dashboard](https://github.com/Hassan-Tariq7/Hassan-portfolio/tree/main/Tesco-Financial-Dashboard)
 - **Tools**: Microsoft Excel (Pivot Tables, Charts, Slicers), Financial Analysis
 - Analyzed Tesco’s financial performance pre- and post-COVID using official data and financial ratios.
 - Designed a custom **interactive Excel dashboard** showing:
