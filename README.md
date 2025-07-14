@@ -67,8 +67,8 @@ Welcome to my GitHub portfolio! I'm a detail-oriented **Data Administrator** wit
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Tariq7&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Tariq7&layout=compact)
 
 ---
 
