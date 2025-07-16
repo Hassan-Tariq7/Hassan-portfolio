@@ -21,7 +21,7 @@ Welcome to my GitHub portfolio! I'm a detail-oriented **Data Administrator** wit
 | **Data Tools**   | MS Excel, Power BI, Tableau |
 | **Automation**   | Python scripting, Excel macros |
 | **Reporting**    | Dashboards, Data Coordination, Report Generation |
-| **Other Skills** | Workflow Monitoring, Confidentiality, Auditing |
+| **Other Skills** | Workflow Monitoring, Auditing |
 
 ---
 
