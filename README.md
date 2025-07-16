@@ -38,8 +38,18 @@ Welcome to my GitHub portfolio! I'm a detail-oriented **Data Administrator** wit
   - Online sales rose 77% during COVID
   - UK and ROI performed well; Central Europe and Asia saw declines
   - Liquidity and gearing ratios fluctuated heavily
-- Presented as part of MSc Data Analytics at Ulster University
 
+### 🔹 [Airline Customer Satisfaction Dashboard](https://github.com/Hassan-Tariq7/Hassan-portfolio/tree/main/Airline-customer-satisfaction)
+- **Tools**: Excel Dashboard, Pivot Tables, Conditional Formatting
+- Analyzed airline customer satisfaction data to understand reasons behind high dissatisfaction.
+- Identified that short-haul and Eco Class passengers had the highest negative feedback.
+- Created an interactive Power BI dashboard highlighting pain points like seat comfort and baggage handling.
+- Created to support data-driven service improvement for airline operations.
+- Key insights:
+  - Over 71% of dissatisfied customers traveled in Economy class, with common complaints about seat comfort, cleanliness, and leg room.
+  - The majority of dissatisfaction came from short-haul flights under 1000 miles, suggesting even brief travel experiences impact satisfaction.
+  - Business and personal travelers were equally dissatisfied, indicating systemic service issues affecting all customer types.
+    
 ## 💼 Work Experience
 
 ### 🟢 **Concentrix, UK** — *Content Analyst*  
